@@ -37,7 +37,7 @@ Este proyecto de Power BI analiza las ventas, los márgenes y el rendimiento por
 ## Uso del Dashboard
 - **Requisitos:**
   - Power BI Desktop
-  - Fuente de datos (puedes incluir datos de ejemplo si es posible)
+  - Software fudo extraer excel de ventas
 
 - **Instrucciones:**
   - Descarga el archivo `.pbix`.
